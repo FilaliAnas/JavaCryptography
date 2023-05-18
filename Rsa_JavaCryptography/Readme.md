@@ -62,7 +62,5 @@ Note: The generated key pair and the encrypted/decrypted data will differ each t
 
 The code is based on the tutorial by Anuj Verma available at [Golden Package by Anuj](https://goldenpackagebyanuj.blogspot.com).
 
-## License
 
-This project is licensed under the [MIT License](LICENSE).
 
