@@ -19,13 +19,7 @@ import java.security.spec.RSAPrivateKeySpec;
 import java.security.spec.RSAPublicKeySpec;
 import javax.crypto.Cipher;
 
-/**
- *
- * @author Anuj
- * Blog www.goldenpackagebyanuj.blogspot.com
- * RSA - Encrypt Data using Public Key
- * RSA - Descypt Data using Private Key
- */
+
 public class RSAEncryption_Decryption {
 
     private static final String PUBLIC_KEY_FILE = "Public.key";
