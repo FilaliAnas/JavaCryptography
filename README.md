@@ -11,7 +11,7 @@
 
   <h1>Caesar Cipher Algorithm:</h1>
   <p>
-    The Caesar cipher is a simple and ancient substitution cipher technique. It was named after Julius Caesar, who is believed to have used it to secure his correspondence. The algorithm involves shifting each letter in the plaintext by a fixed number of positions to create the ciphertext.
+    The Caesar cipher is a simple and ancient substitution cipher tecue. It was named after Julius Caesar, who is believed to have used it to secure his correspondence. The algorithm involves shifting each letter in the plaintext by a fixed number of positions to create the ciphertext.
   </p>
 
   <h2>Usage and Considerations:</h2>
@@ -31,8 +31,11 @@
   <p><em>Please note that this README provides only a brief overview of the RSA and Caesar cipher algorithms. For more in-depth information and implementation details, refer to relevant documentation, books, or online resources.</em></p>  </ul>
   ----------------
   
-    **<h1>AES (Advanced Encryption Standard)</h1>**
-    <h1>AES (Advanced Encryption Standard)</h1>
+
+**<h1>AES (Advanced Encryption Standard)</h1>**
+
+
+ <h1>AES (Advanced Encryption Standard)</h1>
    
   
   <h2>Key Expansion</h2>
