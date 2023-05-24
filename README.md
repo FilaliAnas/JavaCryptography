@@ -32,10 +32,6 @@
 
   <p><em>Note: While the Caesar cipher is a historical encryption method, it is no longer considered secure for practical use. It is highly recommended to use modern encryption algorithms like RSA for secure communications and data protection.</em></p>
 
-  <h2>References:</h2>
-  <ul>
-    <li>RSA Algorithm: <a href="https://en.wikipedia.org/wiki/RSA_(cryptosystem)">https://en.wikipedia.org/wiki/RSA_(cryptosystem)</a></li>
-    <li>Caesar Cipher: <a href="https://en.wikipedia.org/wiki/Caesar_cipher">https://en.wikipedia.org/wiki/Caesar_cipher</a></li>
 
   
   <p><em>Please note that this README provides only a brief overview of the RSA and Caesar cipher algorithms. For more in-depth information and implementation details, refer to relevant documentation, books, or online resources.</em></p>  </ul>
