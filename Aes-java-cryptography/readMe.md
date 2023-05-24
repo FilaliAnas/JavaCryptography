@@ -1,8 +1,6 @@
 <!DOCTYPE html>
 <html>
-<head>
-  <title>Explanation: AES Encryption and Decryption</title>
-</head>
+
 <body>
   <h1>Explanation: AES Encryption and Decryption</h1>
   
@@ -44,7 +42,6 @@
   <h4>Method: decrypt</h4>
   <p>This method takes an encrypted message and a secret key as input, performs AES decryption, and returns the decrypted message.</p>
   
-  <h2>License</h2>
-  <p>This code is licensed under the <a href="LICENSE">MIT License</a>.</p>
+
 </body>
 </html>
