@@ -3,7 +3,7 @@
 
 
 
-  <h1>README: RSA and Caesar Cipher Algorithms</h1>
+  <h1>README: JavaCryptography </h1>
   
   <h2>RSA Algorithm:</h2>
   <p>
@@ -30,6 +30,28 @@
   </ul>
   
   <p><em>Please note that this README provides only a brief overview of the RSA and Caesar cipher algorithms. For more in-depth information and implementation details, refer to relevant documentation, books, or online resources.</em></p>
+  
+    <h1>Comparison: AES vs Caesar Cipher</h1>
+  
+  <h2>AES (Advanced Encryption Standard)</h2>
+  <ul>
+    <li>Type: Symmetric encryption algorithm</li>
+    <li>Security Level: High</li>
+    <li>Usage: Widely used for securing sensitive data in various applications, including network communications, data storage, and confidential information protection</li>
+    <li>Keys: Supports 128, 192, and 256-bit keys</li>
+    <li>Method: AES algorithm employs a combination of substitutions, permutations, and linear transformations to encrypt and decrypt data</li>
+    <li>Security: AES is considered secure and robust against common cryptographic attacks</li>
+  </ul>
+
+  <h2>Caesar Cipher</h2>
+  <ul>
+    <li>Type: Substitution cipher algorithm</li>
+    <li>Security Level: Low</li>
+    <li>Usage: Mainly used for educational and demonstration purposes to understand basic encryption concepts</li>
+    <li>Keys: Uses a fixed shift key to move each letter of the original message to a new position in the alphabet</li>
+    <li>Method: Caesar Cipher performs a fixed shift of letters in the alphabet, such as shifting each letter three positions to the right</li>
+    <li>Security: Caesar Cipher is considered outdated and insecure, as it is vulnerable to brute-force attacks and statistical analysis</li>
+  </ul>
 
 
 
