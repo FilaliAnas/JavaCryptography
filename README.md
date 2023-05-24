@@ -5,12 +5,12 @@
 
   <h1>README: JavaCryptography </h1>
   
- #RSA Algorithm:
+ <h1>RSA Algorithm:</h1>
   <p>
     The RSA (Rivest-Shamir-Adleman) algorithm is a widely used asymmetric encryption algorithm in modern cryptography. It is named after its inventors and is based on the mathematical properties of prime numbers. The RSA algorithm provides a secure method for encryption and decryption, as well as digital signatures.
   </p>
 
-  #Caesar Cipher Algorithm:
+  <h1>Caesar Cipher Algorithm:</h1>
   <p>
     The Caesar cipher is a simple and ancient substitution cipher technique. It was named after Julius Caesar, who is believed to have used it to secure his correspondence. The algorithm involves shifting each letter in the plaintext by a fixed number of positions to create the ciphertext.
   </p>
@@ -32,7 +32,10 @@
   <p><em>Please note that this README provides only a brief overview of the RSA and Caesar cipher algorithms. For more in-depth information and implementation details, refer to relevant documentation, books, or online resources.</em></p>  </ul>
   ----------------
   
-    #AES (Advanced Encryption Standard)
+   
+   ** <h1>AES (Advanced Encryption Standard)</h1>**
+    <h1>AES (Advanced Encryption Standard)</h1>
+   
   
   <h2>Key Expansion</h2>
   <ul>
