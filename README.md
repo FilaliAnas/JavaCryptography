@@ -10,6 +10,16 @@
   </p>
 
   <h1>Caesar Cipher Algorithm:</h1>
+    
+  <ul>
+    <li>Type: Substitution cipher algorithm</li>
+    <li>Security Level: Low</li>
+    <li>Usage: Mainly used for educational and demonstration purposes to understand basic encryption concepts</li>
+    <li>Keys: Uses a fixed shift key to move each letter of the original message to a new position in the alphabet</li>
+    <li>Method: Caesar Cipher performs a fixed shift of letters in the alphabet, such as shifting each letter three positions to the right</li>
+    <li>Security: Caesar Cipher is considered outdated and insecure, as it is vulnerable to brute-force attacks and statistical analysis</li>
+  </ul>
+
   <p>
     The Caesar cipher is a simple and ancient substitution cipher tecue. It was named after Julius Caesar, who is believed to have used it to secure his correspondence. The algorithm involves shifting each letter in the plaintext by a fixed number of positions to create the ciphertext.
   </p>
@@ -95,15 +105,6 @@
     <li>Security: AES is considered secure and robust against common cryptographic attacks</li>
   </ul>
 
-  <h2>Caesar Cipher</h2>
-  <ul>
-    <li>Type: Substitution cipher algorithm</li>
-    <li>Security Level: Low</li>
-    <li>Usage: Mainly used for educational and demonstration purposes to understand basic encryption concepts</li>
-    <li>Keys: Uses a fixed shift key to move each letter of the original message to a new position in the alphabet</li>
-    <li>Method: Caesar Cipher performs a fixed shift of letters in the alphabet, such as shifting each letter three positions to the right</li>
-    <li>Security: Caesar Cipher is considered outdated and insecure, as it is vulnerable to brute-force attacks and statistical analysis</li>
-  </ul>
 
 
 
