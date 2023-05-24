@@ -30,8 +30,9 @@
   </ul>
   
   <p><em>Please note that this README provides only a brief overview of the RSA and Caesar cipher algorithms. For more in-depth information and implementation details, refer to relevant documentation, books, or online resources.</em></p>
+  ----------------
   
-    <h1>Explanation: AES (Advanced Encryption Standard)</h1>
+    <h2>AES (Advanced Encryption Standard)</h2>
   
   <h2>Key Expansion</h2>
   <ul>
