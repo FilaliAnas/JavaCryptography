@@ -31,7 +31,54 @@
   
   <p><em>Please note that this README provides only a brief overview of the RSA and Caesar cipher algorithms. For more in-depth information and implementation details, refer to relevant documentation, books, or online resources.</em></p>
   
-    <h1>Comparison: AES vs Caesar Cipher</h1>
+    <h1>Explanation: AES (Advanced Encryption Standard)</h1>
+  
+  <h2>Key Expansion</h2>
+  <ul>
+    <li>AES uses a secret key of 128, 192, or 256 bits.</li>
+    <li>A series of round keys is generated from the original key.</li>
+  </ul>
+
+  <h2>Substitution</h2>
+  <ul>
+    <li>Each byte of the data is substituted with another byte using a substitution table (S-box).</li>
+    <li>This substitution adds complexity to the encryption process.</li>
+  </ul>
+
+  <h2>Shifting</h2>
+  <ul>
+    <li>The rows of the data matrix are shifted.</li>
+    <li>This ensures spreading out of data within the matrix.</li>
+  </ul>
+
+  <h2>Mixing</h2>
+  <ul>
+    <li>The columns of the data matrix are mixed.</li>
+    <li>This mixing operation adds confusion and enhances security.</li>
+  </ul>
+
+  <h2>Adding Key</h2>
+  <ul>
+    <li>Each byte of the data is combined with a round key using XOR operation.</li>
+    <li>The round key comes from the key expansion step.</li>
+  </ul>
+
+  <h2>Repeat</h2>
+  <ul>
+    <li>Steps 2 to 5 are repeated for a certain number of rounds based on the key size.</li>
+  </ul>
+
+  <h2>Final Round</h2>
+  <ul>
+    <li>The final round excludes the mixing step.</li>
+  </ul>
+
+  <h2>Decryption</h2>
+  <ul>
+    <li>Decryption is the reverse process of encryption using the inverse operations.</li>
+  </ul>
+
+  <p><em>AES provides a high level of security, ensuring the confidentiality of data. It is widely used to secure communication, encrypt files, and protect sensitive information.</em></p>
   
   <h2>AES (Advanced Encryption Standard)</h2>
   <ul>
