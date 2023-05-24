@@ -1,10 +1,8 @@
 # JavaCryptography
-<!DOCTYPE html>
-<html>
-<head>
-  <title>README: RSA and Caesar Cipher Algorithms</title>
-</head>
-<body>
+
+
+
+
   <h1>README: RSA and Caesar Cipher Algorithms</h1>
   
   <h2>RSA Algorithm:</h2>
@@ -34,5 +32,4 @@
   <p><em>Please note that this README provides only a brief overview of the RSA and Caesar cipher algorithms. For more in-depth information and implementation details, refer to relevant documentation, books, or online resources.</em></p>
 
 
-</body>
-</html>
+
